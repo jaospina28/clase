@@ -14,6 +14,9 @@
                     $esPrimo = 0;  
                } 
           }
+		  if($esPrimo) {
+               echo $i."<br>"; 
+	      }
      } 
 
 ?>
